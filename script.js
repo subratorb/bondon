@@ -1,0 +1,1 @@
+document.getElementById('content').innerHTML = '<p>Content will be loaded here.</p>';
